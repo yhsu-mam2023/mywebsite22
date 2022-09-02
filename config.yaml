@@ -1,6 +1,6 @@
 baseURL: https://yhsumam2023.netlify.app/
 languageCode: en-us
-title: Portfolio website for Yung-Chieh Hsu
+title: Yung-Chieh Hsu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,11 +10,11 @@ params:
     subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Yung-Chieh Hsu
+    title: Hi, my name is Yung-Chieh Hsu 
   blog: {}
   contact:
-    address: Court
-      - city: London
+    address:
+      - city: London, ST 00000
         country: UK
         street: Baker Street
         title: FC
@@ -25,11 +25,11 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (077) 748-27238 x1234
+      - phone: (777)482-7238 x1234
         title: Phone
   custom_css: []
   custom_js: []
-  description: Yung-Chieh Hsy
+  description: Your description
   error404:
     heading: Page couldn't be found
     text: Please visit [this page](/)
