@@ -13,8 +13,8 @@ params:
     title: Hi, my name is Yung-Chieh Hsu
   blog: {}
   contact:
-    address: NW1 5LG
-      - city: London, ST 00000
+    address: Court
+      - city: London
         country: UK
         street: Baker Street
         title: FC
