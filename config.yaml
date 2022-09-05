@@ -91,8 +91,8 @@ params:
         url: blogs/tempus
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
-        url: blogs/magna
+        title: Risk_return
+        url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
