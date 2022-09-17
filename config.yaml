@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      #- name: Generic Blog
-       # url: blogs/ipsum
-     # - name: Elements
-       # url: elements.html
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
     menu: Menu
     subtitle: Portfolio Website
     title: Yung
@@ -93,18 +93,18 @@ params:
         subtitle: Lorem Etiam Nullam
         title: Risk Return  
         url: blogs/risk_return
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+      #- image: pic04.jpg
+       # subtitle: Nisl Sed Aliquam
+       # title: Ipsum
+        #url: blogs/ipsum
       - image: polarbear.jpeg
         subtitle: Climate change and temperature anomalies
         title: Climate Change
         url: blogs/ipsum
-      - image: spice.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+      #- image: spice.jpg
+       # subtitle: Feugiat Amet Tempus
+       # title: Etiam
+       # url: blogs/ipsum
   two:
     buttonText: Get Started
     enable: yes
