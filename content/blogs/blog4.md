@@ -8,7 +8,7 @@ description: Nullam et orci eu lorem consequat tincidunt vivamus et sagittis mag
   sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem
   consequat tincidunt. Vivamus et sagittis tempus.
 draft: false
-image: U_or_Rochester
+image: U_or_Rochester.jpg
 keywords: ""
 slug: ab
 title: About myself
