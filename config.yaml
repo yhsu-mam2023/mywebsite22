@@ -97,14 +97,8 @@ params:
         subtitle: Pay Discrimination 
         title: Pay Discrimination 
         url: blogs/ipsum
-    #  - image: polarbear.jpeg
-        subtitle: Project: Climate change and temperature anomalies
-        title: Climate Change
-        url: blogs/ipsum
-      #- image: spice.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
-        url: blogs/ipsum
+
+
   two:
     buttonText: Get Started
     enable: yes
