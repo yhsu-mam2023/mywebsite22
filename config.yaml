@@ -42,8 +42,8 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: #fa-twitter
-        label: #Twitter
+      - icon: fa-twitter
+        label: Twitter
         url: #https://www.twitter.com
       - icon: #fa-facebook
         label: #Facebook
@@ -81,17 +81,17 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: lbs.jpg
-        subtitle: My Life before coming to LBS
+      - image: U_or_Rochester
+        subtitle: University Life
         title: About Myself
         url: blogs/ab
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
-      - image: Golden_Gate_Bridge_.jpeg
+      - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
-        title: Project: Rents in San Francisco
+        title: Risk_return
         url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
