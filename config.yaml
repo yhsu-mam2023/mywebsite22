@@ -91,17 +91,17 @@ params:
         url: blogs/tempus
       - image: polarbear.jpeg
         subtitle: Lorem Etiam Nullam
-        title: Climate change and temperature anomalies
+        title: Project: Risk Return  
         url: blogs/risk_return
       - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+        subtitle: Pay Discrimination 
+        title: Pay Discrimination 
         url: blogs/ipsum
-      - image: polarbear.jpeg
-        subtitle: Climate change and temperature anomalies
+    #  - image: polarbear.jpeg
+        subtitle: Project: Climate change and temperature anomalies
         title: Climate Change
         url: blogs/ipsum
-      - image: spice.jpg
+      #- image: spice.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
