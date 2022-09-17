@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: U_or_Rochester
+      - image: lbs.jpg
         subtitle: University Life
         title: About Myself
         url: blogs/ab
