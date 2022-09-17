@@ -91,7 +91,7 @@ params:
         url: blogs/tempus
       - image: Golden_Gate_Bridge_.jpeg
         subtitle: Lorem Etiam Nullam
-        title: Project: Rents in San Francisco, 2000-2018
+        title: Project: Rents in San Francisco
         url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
