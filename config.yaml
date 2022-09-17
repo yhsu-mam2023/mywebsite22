@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      #- name: Generic Blog
-      #  url: blogs/ipsum
-      #- name: Elements
-      #  url: elements.html
+      - name: Generic Blog
+        url: blogs/ipsum
+      - name: Elements
+        url: elements.html
     menu: Menu
     subtitle: Portfolio Website
     title: Yung
@@ -94,8 +94,8 @@ params:
         title: Project: Risk Return  
         url: blogs/risk_return
       - image: pic04.jpg
-        subtitle: Pay Discrimination 
-        title: Pay Discrimination 
+        subtitle: Nisl Sed Aliquam
+        title: Ipsum
         url: blogs/ipsum
       - image: polarbear.jpeg
         subtitle: Project: Climate change and temperature anomalies
