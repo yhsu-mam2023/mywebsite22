@@ -1,6 +1,6 @@
 baseURL: https://yhsumam2023.netlify.app/
 languageCode: en-us
-title: Yung-Chieh Hsu
+title: hi-Chieh Hsu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Yung-Chieh Hsu 
+    title: Hi, my name is hi-Chieh Hsu 
   blog: {}
   contact:
     address:
@@ -101,7 +101,7 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: pic06.jpg
+      - image: spice.jpg
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
