@@ -91,14 +91,14 @@ params:
         url: blogs/tempus
       - image: polarbear.jpeg
         subtitle: Lorem Etiam Nullam
-        title: Project: Risk Return  
+        title: Risk Return  
         url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
       - image: polarbear.jpeg
-        subtitle: Project: Climate change and temperature anomalies
+        subtitle: Climate change and temperature anomalies
         title: Climate Change
         url: blogs/ipsum
       - image: spice.jpg
