@@ -97,9 +97,9 @@ params:
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+      - image: polarbear.jpeg
+        subtitle: Climate change and temperature anomalies
+        title: Climate Change
         url: blogs/ipsum
       - image: spice.jpg
         subtitle: Feugiat Amet Tempus
