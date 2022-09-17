@@ -42,21 +42,21 @@ params:
         text: 'Design: '
         url: https://www.html5up.net
     social:
-      - icon: fa-twitter
-        label: Twitter
-        url: https://www.twitter.com
-      - icon: fa-facebook
-        label: Facebook
-        url: https://www.facebook.com
-      - icon: fa-instagram
-        label: Instagram
-        url: https://www.instagram.com
-      - icon: fa-github
-        label: GitHub
-        url: https://www.github.com
+      - icon: #fa-twitter
+        label: #Twitter
+        url: #https://www.twitter.com
+      - icon: #fa-facebook
+        label: #Facebook
+        url: #https://www.facebook.com
+      - icon: #fa-instagram
+        label: #Instagram
+        url: #https://www.instagram.com
+      - icon: #fa-github
+        label: #GitHub
+        url: #https://www.github.com
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: www.linkedin.com/in/yungchiehhsu-alice1823
   image: ''
   name: Yung-Chieh Hsu
   navigation:
@@ -81,17 +81,17 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: U_or_Rochester
-        subtitle: University Life
+      - image: lbs.jpg
+        subtitle: My Life before coming to LBS
         title: About Myself
         url: blogs/ab
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
         url: blogs/tempus
-      - image: pic03.jpg
+      - image: Golden_Gate_Bridge_.jpeg
         subtitle: Lorem Etiam Nullam
-        title: Risk_return
+        title: Project: Rents in San Francisco, 2000-2018
         url: blogs/risk_return
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
