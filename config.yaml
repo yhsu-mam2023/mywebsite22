@@ -1,6 +1,6 @@
 baseURL: https://yhsumam2023.netlify.app/
 languageCode: en-us
-title: Hi
+title: Yung-Chieh Hsu
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,14 +10,14 @@ params:
     subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is hi-Chieh Hsu 
+    title: Hi, my name is Yung-Chieh Hsu 
   blog: {}
   contact:
     address:
-      - city: London, ST 00000
+      - city: London, NW 15LG
         country: UK
-        street: Baker Street
-        title: FC
+        street: 18 Allsop Place
+        title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Yung-Chieh Hsu
   navigation:
     button1:
       - name: Get Started
@@ -81,8 +81,8 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic02.jpg
-        subtitle: 1234
+      - image: U_or_Rochester
+        subtitle: University Life
         title: About Myself
         url: blogs/ab
       - image: pic02.jpg
