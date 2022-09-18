@@ -3,7 +3,7 @@ categories:
 - ""    #the front matter should be like the one found in, e.g., blog2.md. It cannot be like the normal Rmd we used
 - ""
 date: "2021-09-30"
-description: Analysis for rent in San Francisco  # the title that will show up once someone gets to this page
+description: Rent in San Francisco # the title that will show up once someone gets to this page
 draft: false
 image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
@@ -132,7 +132,6 @@ What can you infer from these plots? Don't just explain what's in the graph, but
 
 > TYPE YOUR ANSWER AFTER (AND OUTSIDE!) THIS BLOCKQUOTE.
 
-First of all, San Francisco has the most listings among all the cities it the Bay Area. The reason behind this could be that San Francisco has a booming economy and is a popular location for large companies, such as Uber or Twitter. These companies recruit a lot outside of San Francisco, leading to a large influx in individuals requiring local accommodation. As the demand is high, supply follows suit. Smaller towns like Redwood City have low population and don't draw nearly as many foreign settlers. Therefore, the number of listings is comparatively lower. 
+First of all, San Francisco has the most listings among all the cities it the Bay Area. The reason behind this could be that San Francisco has a booming economy and is a popular location for large companies, such as Uber or Twitter. These companies recruit a lot outside of San Francisco, leading to a large influx in individuals requiring local accommodation. As the demand is high, supply follows suit. Smaller towns like Redwood City have low population and don't draw nearly as many foreign settlers. Therefore, the number of listings is comparatively lower.
 
 The increase in rental prices between 2000 and 2018 in San Francisco is proportionally approximately the same between 0 to 3 bed listings. If there was a larger increase in families over that time frame, we could potentially see prices for 2 and 3 bedroom flats ascending more extremely given the increase demand. However, the demand seems to be equally balanced between all sizes. We should also not be surprised to see generally higher prices in San Francisco compared to other cities in the Bay Area. This is most likely a result of the popularity of the city for foreigners and the limited space available for additional housing, among others. By observing the price line charts for all cities in the Bay Area, we can see that all have experienced a rise in prices between 2000 and 2018. A natural increase over time is to be expected, given inflation. However we see more pronounced increases in some areas versus others, the reasons for which could be further investigated. An example would be Palo Alto, which is of course known for the Stanford Campus. Last but not least, the dip in 2008/2009 is worth mentioning. This is most likely a result of the financial crisis during that time. The difference in the gravity of the dip between cities provides some intriguing insights.
-
