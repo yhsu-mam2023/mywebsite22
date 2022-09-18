@@ -93,10 +93,10 @@ params:
         subtitle: Lorem Etiam Nullam
         title: Risk Return  
         url: blogs/risk_return
-      #- image: pic04.jpg
-       # subtitle: Nisl Sed Aliquam
-       # title: Ipsum
-        #url: blogs/ipsum
+      - image: uk_brexit.jpeg
+        subtitle: 
+        title: Brexit
+        url: blogs/brexit
       - image: polarbear.jpeg
       #- image: spice.jpg
        # subtitle: Feugiat Amet Tempus
