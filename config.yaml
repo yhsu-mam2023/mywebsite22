@@ -89,7 +89,7 @@ params:
         subtitle: 
         title: Rents in San Francsisco
         url: blogs/san_francisco_rent
-      - image: polarbear.jpeg
+      - image: polarbear.jpeg 
         subtitle: Lorem Etiam Nullam
         title: Risk Return  
         url: blogs/risk_return

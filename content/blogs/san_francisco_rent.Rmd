@@ -8,7 +8,7 @@ draft: false
 image: spices.jpg # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
-slug: golden_bridge # slug is the shorthand URL address... no spaces plz
+slug: san_francisco_rent # slug is the shorthand URL address... no spaces plz
 title: Rent in San Francisco
 ---
 
