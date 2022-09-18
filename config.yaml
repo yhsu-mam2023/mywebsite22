@@ -87,17 +87,17 @@ params:
         url: blogs/ab
       - image: Golden_Gate_Bridge_.jpeg
         subtitle: 
-        title: Rents in San Francsisco
+        title: Project:Rents in San Francsisco
         url: blogs/san_francisco_rent
-      - image: polarbear.jpeg
-        subtitle: Lorem Etiam Nullam
-        title: Risk Return  
-        url: blogs/risk_return
+      - image: biden.jpeg
+        subtitle: 
+        title: Project:Biden’s Approval Margins  
+        url: blogs/biden
       - image: uk_brexit.jpeg
         subtitle: 
-        title: Brexit
+        title: Project:Brexit Analysis
         url: blogs/brexit
-      - image: polarbear.jpeg
+      #- image: polarbear.jpeg
       #- image: spice.jpg
        # subtitle: Feugiat Amet Tempus
        # title: Etiam
